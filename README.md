@@ -1,10 +1,9 @@
-# Malware Analysis Sandbox Lab — Capstone Project (Unit 1)
+# Malware Analysis Sandbox Lab — Capstone Project
 
 ### Student & Project Information
 - **Student Name**: Sarthak Sunil Thorat
 - **PRN**: 2125UCSM1105
 - **Subject**: NPC (Network Protection & Cyber Security)
-- **Unit**: Unit 1 — Capstone Project
 - **Topic**: *Malware Analysis Sandbox Using VirtualBox or VMware*
 - **GitHub Repository**: [https://github.com/sarthak833/NPC-Capstone-Project](https://github.com/sarthak833/NPC-Capstone-Project)
 
